@@ -1,0 +1,13 @@
+{
+	"tempHash": "0066392ED95E80C7",
+	"tbluHash": "00DD196200716554",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"b3e403dff6a8789e",
+				{ "RemoveAllEventConnectionsForTrigger": ["Completed", "ConsumeFromInventory"] }
+			]
+		}
+	],
+	"patchVersion": 6
+}

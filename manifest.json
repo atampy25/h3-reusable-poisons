@@ -1,9 +1,10 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
+	"id": "Atampy26.ReusablePoisons",
+	"name": "Reusable Poisons",
+	"description": "Allows you to use poison items as many times as you want.",
+	"authors": ["Atampy26"],
+	"contentFolders": ["content"],
 	"frameworkVersion": "2.25.1"
 }
