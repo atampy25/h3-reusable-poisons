@@ -1,0 +1,13 @@
+{
+	"tempHash": "00D8D0DD9BE9E4F3",
+	"tbluHash": "004C89BB3826A8C1",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"7adc1d42dd20e63e",
+				{ "RemoveAllInputCopyConnectionsForTrigger": ["ConsumeFromInventory", "ConsumeFromInventory"] }
+			]
+		}
+	],
+	"patchVersion": 6
+}
