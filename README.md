@@ -6,4 +6,4 @@ Allows you to use poison items as many times as you want.
 
 ---
 
-`Atampy26.ReusablePoisons` v1.0.0, by Atampy26. This README was automatically generated from the mod's manifest.
+`Atampy26.ReusablePoisons` v1.0.1, by Atampy26. This README was automatically generated from the mod's manifest.
